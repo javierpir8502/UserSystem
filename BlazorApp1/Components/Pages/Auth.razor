@@ -1,0 +1,83 @@
+﻿@page "/auth"
+
+@using BlazorApp1.Data
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Identity
+@inject ApplicationDbContext Context
+
+@attribute [Authorize]
+
+@rendermode InteractiveServer
+
+<PageTitle>Usuarios</PageTitle>
+
+<h1>Lista de Usuarios</h1>
+
+<AuthorizeView>
+    <table class="table table-striped table-bordered table-responsive">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Usuario</th>
+                <th>Email</th>
+                <th>Estado</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var usuario in usuarios)
+            {
+                <tr>
+                    <td>@usuario.Id</td>
+                    <td>@usuario.FullName</td>
+                    <td>@usuario.UserName</td>
+                    <td>@usuario.Email</td>
+                    <td>@if (usuario.isActive)
+                        {
+                            <span class="text-success">Activo</span>
+                        }
+                        else
+                        {
+                            <span class="text-danger">Inactivo</span>
+                        }
+                    </td>
+                    <td>
+                        <button class="btn btn-primary" @onclick="() => CambiarEstado(usuario.Id)">Cambiar Estado</button>
+                        <button class="btn btn-danger" @onclick="() => EliminarUsuario(usuario.Id)">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+</AuthorizeView>
+
+@code
+{
+    private List<ApplicationUser> usuarios = new();
+    private string userId;
+
+    protected override async Task OnInitializedAsync()
+    {
+        usuarios = Context.Users.ToList();        
+    }
+    private async Task CambiarEstado(string usuarioId)
+    {
+        var usuario = await Context.Users.FindAsync(usuarioId);
+        usuario.isActive = !usuario.isActive;
+        await Context.SaveChangesAsync();
+        // Recarga la lista de usuarios para reflejar los cambios
+        usuarios =  Context.Users.ToList();
+    }
+
+    private async Task EliminarUsuario(string usuarioId)
+    {
+        var usuario = await Context.Users.FindAsync(usuarioId);
+        Context.Users.Remove(usuario);
+        await Context.SaveChangesAsync();
+        // Recarga la lista de usuarios para reflejar los cambios
+        usuarios = Context.Users.ToList();
+    }
+}

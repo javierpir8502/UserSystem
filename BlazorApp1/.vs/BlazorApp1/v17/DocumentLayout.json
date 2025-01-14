@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\data\\sessionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:data\\sessionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\data\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:data\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\pages\\forgotpasswordconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\pages\\forgotpasswordconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|c:\\users\\javier.piratova\\source\\repos\\blazorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45273BB7-F250-42EC-917D-8BDAFAEED194}|BlazorApp1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionStore.cs",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Data\\SessionStore.cs",
+              "RelativeDocumentMoniker": "Data\\SessionStore.cs",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Data\\SessionStore.cs",
+              "RelativeToolTip": "Data\\SessionStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:17:33.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Data\\Session.cs",
+              "RelativeDocumentMoniker": "Data\\Session.cs",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Data\\Session.cs",
+              "RelativeToolTip": "Data\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:17:05.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfirmEmail.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\ConfirmEmail.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\ConfirmEmail.razor",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T18:44:24.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterConfirmation.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T18:42:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Auth.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Pages\\Auth.razor",
+              "RelativeToolTip": "Components\\Pages\\Auth.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:40:20.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\Index.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:34:59.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageNavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:32:59.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:12:14.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:12:48.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityUserAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\IdentityUserAccessor.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityUserAccessor.cs",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\IdentityUserAccessor.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityUserAccessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:26:45.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExternalLoginPicker.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:24:38.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\Register.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Register.razor",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:08:27.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:01:05.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:12:05.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:58:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotPasswordConfirmation.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\ForgotPasswordConfirmation.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\ForgotPasswordConfirmation.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\ForgotPasswordConfirmation.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\ForgotPasswordConfirmation.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:28:42.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForgotPassword.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\ForgotPassword.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\ForgotPassword.razor",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:26:19.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageLayout.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageLayout.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\ManageLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:31:26.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginWithRecoveryCode.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:20:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:06:13.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwCsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T17:01:27.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\javier.piratova\\source\\repos\\BlazorApp1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T08:11:20.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
